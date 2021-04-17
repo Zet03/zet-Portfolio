@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T11:03:32.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="TR2Vp30Pwgd9FQZQ3e6H" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T11:07:33.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="VUa0OYytLTYId_INggra" version="14.6.1" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="2720" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3125" dy="2595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,7 +175,7 @@
         <mxCell id="HubKR3QYWPAaxfISEmm5-86" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;sketch=0;strokeWidth=4;rotation=-90;fillColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="-323.83000000000004" y="-520" width="27.67" height="39.53" as="geometry" />
         </mxCell>
-        <mxCell id="HubKR3QYWPAaxfISEmm5-87" value="다음 맵으로 이동" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="HubKR3QYWPAaxfISEmm5-87" value="맵이동" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-230" y="-526.64" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HubKR3QYWPAaxfISEmm5-91" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;shadow=0;sketch=1;strokeWidth=4;fillColor=#FFFFFF;gradientColor=#FFFFFF;" vertex="1" parent="1">
